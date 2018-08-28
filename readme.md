@@ -17,11 +17,17 @@
 - Se evaluará:
 
     - Cargado de archivos CSS.
-    
+
     - Cargado de archivos JS.
 
     - Cargado de imágenes.
-    
+
     - Implementación de tipografías.
 
 - El proyecto debe ser subido a un repositorio en tu cuenta de GitHub.
+
+
+## Tips:
+
+- Para crear nuevo proyecto Rails sin Base de Datos, ni librerías CofeeScripts:
+* rails new theme1 -O --skip-coffe
