@@ -31,3 +31,5 @@
 
 - Para crear nuevo proyecto Rails sin Base de Datos, ni librerías CofeeScripts:
 * rails new theme1 -O --skip-coffe
+
+## Guía paso a paso en archivo: Deploy de Aplicación Rails en Heroku.pdf
